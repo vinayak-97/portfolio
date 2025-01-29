@@ -55,7 +55,7 @@ function About() {
                         About Me
                     </h2>
                     <p align='justify' className='pb-5 pt-6'>
-                      I'm a passionate <span className='text-teal-500'>Software Developer / Data Scientist</span> 
+                      I'm a passionate Software Engineer experienced in <span className='text-teal-500'>Full Stack, ML & AI</span> 
                     </p>
                     <p align='justify' className='pb-5'>
                       As a developer, my expertise spans across various technologies for <span className='text-teal-500'>coding</span> and <span className='text-teal-500'>problem-solving</span>. I have dedicated myself to mastering various programming languages and frameworks, constantly exploring new advancements in the field and staying up-to-date with the latest trends.
